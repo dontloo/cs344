@@ -1,4 +1,5 @@
 //Udacity HW1 Solution
+//Run: ./HW1 cinque_terre_small.jpg HW1_output.png HW1_reference.png 1 10
 
 #include <iostream>
 #include "timer.h"

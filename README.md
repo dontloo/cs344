@@ -1,7 +1,10 @@
 cs344
 =====
 
-Introduction to Parallel Programming class code
+Introduction to Parallel Programming class code and asnwer
+
+# Build and Run
+The code is tested on opencv 4 and cuda 10, for other versions it may require modification to the code and makefiles.
 
 # Building on OS X
 

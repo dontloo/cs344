@@ -1,4 +1,5 @@
 //Udacity HW2 Driver
+//Run: ./HW2 cinque_terre_small.jpg HW2_output.png HW2_reference.png 1 10
 
 #include <iostream>
 #include "timer.h"
